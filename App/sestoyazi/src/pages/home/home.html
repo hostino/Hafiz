@@ -1,0 +1,21 @@
+<ion-content padding>
+  <ion-card>
+    <ion-card-content>
+      <ion-label stacked>Sizin sorunuz </ion-label>
+      <p>{{speechList[0]}}</p>
+    </ion-card-content>
+  </ion-card>
+  <br>  <br>
+  <ion-card>
+    <ion-card-content>
+      <ion-label stacked>Cevabınız </ion-label>
+      <p>{{cevap}}</p>
+    </ion-card-content>
+  </ion-card>
+  <br>  <br>
+  <br>  <br>
+  <button ion-button (click)="getPermission()">İzin Al</button>
+  <button ion-button (click)="listenForSpeech()">Mikrofon</button>
+  <button ion-button (click)="gonder()">Gönder</button>
+
+<ion-content>
