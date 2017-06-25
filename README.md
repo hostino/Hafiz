@@ -2,7 +2,8 @@ Hayri bir sanal asistandır (siri gibi) basit düzeyde bazı komutlara cevap ver
 
 ### **Kullanılan teknolojiler:**
 
-web: php mobile: ionic,angular
+web: php 
+mobile: ionic,angular
 
 ### Gerekli olanlar:
 
@@ -21,4 +22,7 @@ web: php mobile: ionic,angular
 
 ### Kurulum:
 
-"server\hayri" dosya yoluna gidip "hayri.sql" dosyasını veri tabanı olarak içe aktarın. "App\sestoyazi\src\pages\home" dosya yoluna gidip "home.ts" dosyasının 51\. satırındaki gerekli bölümü düzenleyin. "server\hayri\panel" dosya yoluna gidip "dapi.php" dosyasının 20-24 satırları arasındaki gerekli bölümü düzenleyin. "server\hayri\panel" dosya yoluna gidip "sistem.php" dosyasının 6\. satırlarındaki gerekli bölümü düzenleyin.
+*   "server\hayri" dosya yoluna gidip "hayri.sql" dosyasını veri tabanı olarak içe aktarın. 
+*   "App\sestoyazi\src\pages\home" dosya yoluna gidip "home.ts" dosyasının 51. satırındaki gerekli bölümü düzenleyin. 
+*   "server\hayri\panel" dosya yoluna gidip "dapi.php" dosyasının 20-24 satırları arasındaki gerekli bölümü düzenleyin. 
+*   "server\hayri\panel" dosya yoluna gidip "sistem.php" dosyasının 6. satırlarındaki gerekli bölümü düzenleyin.
