@@ -2,8 +2,8 @@ Hayri bir sanal asistandır (siri gibi) basit düzeyde bazı komutlara cevap ver
 
 ### **Kullanılan teknolojiler:**
 
-web: php 
-mobile: ionic,angular
+*   web: php 
+*   mobile: ionic,angular
 
 ### Gerekli olanlar:
 
