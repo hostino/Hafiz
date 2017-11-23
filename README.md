@@ -1,4 +1,4 @@
-Hayri bir sanal asistandır (siri gibi) basit düzeyde bazı komutlara cevap verir. Okul için geliştirmiştim. Geliştirmek için çok az zaman bulduğumdan kodlarında çok fazla saçmaladığım kısımlar olabilir.
+Hayri bir sanal asistandır (siri gibi) basit düzeyde bazı komutlara cevap verir. Okul için geliştirmiştim. Geliştirmek için çok az zaman bulduğumdan sorunlar bulunabilir.
 
 ### **Kullanılan teknolojiler:**
 
