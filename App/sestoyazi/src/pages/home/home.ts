@@ -58,7 +58,7 @@ iosOptions: SpeechRecognitionListeningOptionsIOS;
 
   async gonder()  {
     this.bolun=this.speechList[0].split(" ")
-    this.http.get('(Site adresi)/hayri/panel/dapi.php?grd='+this.bolun).map(res => res.json()).subscribe(
+    this.http.get('(bilisimfirmasi.com)/hayri/panel/dapi.php?grd='+this.bolun).map(res => res.json()).subscribe(
       data => {
           this.tts.speak({
               text: data.deger,
